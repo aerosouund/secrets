@@ -1,4 +1,4 @@
-module github.com/libopenstorage/secrets
+module github.com/aerosouund/secrets
 
 go 1.13
 
